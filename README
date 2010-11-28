@@ -1,0 +1,9 @@
+
+HD44780 LCD controller library for mini2440
+===========================================
+
+This library provides a way to control a HD44780-based LCD using GPIO ports
+of the mini2440 from a userspace program using the sysfs interface exposed 
+by the kernel.
+ 
+
